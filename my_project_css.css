@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+*{
+	font-family: Raleway;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.nav_a {
+	font-size: 1.1rem;
+	color: grey;
+
+}
+
+.nav_a:hover {
+	color: grey;
+	text-decoration: none;
+}
+
+.header{
+	background: url('https://pbs.twimg.com/media/DuN2IbdWsAE0laJ.jpg:large');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+
+}
+
+.overlay{
+	background-color: rgba(128, 128, 128, 0.4);
+	min-height: 100%;
+	min-width: 100%;
+}
+
+.description{
+	position: absolute;
+	width: 100%;
+	top: 35%;
+	left: 0;
+	text-align: center;
+	color: white;
+}
+
+.img-size {
+	padding: 1rem;
+}
+
+h1 {
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+
+.cont_tovar {
+	background: #FFF5EE;
+}
+
+.card {
+	margin-bottom: 1rem;
+}
+
+.cont_sviaz {
+	background: #FFF5EE;
+}
+
+.form-sviaz {
+	padding-bottom: 4rem;
+}
+
+h1 {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
